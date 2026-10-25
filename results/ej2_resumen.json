@@ -1,0 +1,63 @@
+{
+  "A (menor peso falla)": {
+    "Menor peso primero": {
+      "items": [
+        "A",
+        "B"
+      ],
+      "valor": 2,
+      "peso": 3,
+      "W": 10
+    },
+    "Mayor valor/peso": {
+      "items": [
+        "A",
+        "C"
+      ],
+      "valor": 31,
+      "peso": 9,
+      "W": 10
+    },
+    "Óptimo (DP)": {
+      "items": [
+        "A",
+        "C"
+      ],
+      "valor": 31,
+      "peso": 9,
+      "W": 10
+    }
+  },
+  "B (valor/peso se atora)": {
+    "Menor peso primero": {
+      "items": [
+        "Y",
+        "Z"
+      ],
+      "valor": 14,
+      "peso": 10,
+      "W": 10
+    },
+    "Mayor valor/peso": {
+      "items": [
+        "X"
+      ],
+      "valor": 10,
+      "peso": 6,
+      "W": 10
+    },
+    "Óptimo (DP)": {
+      "items": [
+        "Y",
+        "Z"
+      ],
+      "valor": 14,
+      "peso": 10,
+      "W": 10
+    }
+  },
+  "aleatorias_2000": {
+    "no_optimo_menor_peso": 1398,
+    "no_optimo_valor_peso": 521
+  }
+}

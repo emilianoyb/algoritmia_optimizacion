@@ -1,0 +1,45 @@
+{
+  "n_instancias": 100,
+  "MST puro": {
+    "media": 1.1310994418274514,
+    "mediana": 1.1303551071305886,
+    "minima": 1.0,
+    "maxima": 1.3898738650563962,
+    "optimas": 7,
+    "costo_medio": 30.462815169555643
+  },
+  "MST + 2-opt": {
+    "media": 1.0068544307398288,
+    "mediana": 1.0,
+    "minima": 0.9999999999999999,
+    "maxima": 1.1023659935648502,
+    "optimas": 83,
+    "costo_medio": 27.13348515820156
+  },
+  "2-opt (inicio aleatorio)": {
+    "media": 1.0048150229928987,
+    "mediana": 1.0000000000000002,
+    "minima": 0.9999999999999999,
+    "maxima": 1.0871441133573505,
+    "optimas": 83,
+    "costo_medio": 27.078747724105273
+  },
+  "2-opt (inicio NN)": {
+    "media": 1.007335753409561,
+    "mediana": 1.0000000000000002,
+    "minima": 0.9999999999999999,
+    "maxima": 1.0896937032702512,
+    "optimas": 78,
+    "costo_medio": 27.153743676360488
+  },
+  "Recocido simulado": {
+    "media": 0.9999999999999998,
+    "mediana": 0.9999999999999999,
+    "minima": 0.9999999999999942,
+    "maxima": 1.000000000000004,
+    "optimas": 100,
+    "costo_medio": 26.940939299615106
+  },
+  "costo_optimo_medio": 26.940939299615113,
+  "w_mst_sobre_optimo_media": 0.7118745724020442
+}

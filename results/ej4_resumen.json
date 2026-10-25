@@ -1,0 +1,69 @@
+{
+  "resultados": {
+    "10000|lineal": {
+      "costo_media": 712.6657694174388,
+      "costo_desv": 22.14373906980174,
+      "tiempo_media": 0.03910555000038585
+    },
+    "10000|exponencial": {
+      "costo_media": 607.4884407055092,
+      "costo_desv": 19.536148627747327,
+      "tiempo_media": 0.030657580000115557
+    },
+    "10000|logarítmico": {
+      "costo_media": 612.6106518530141,
+      "costo_desv": 18.502271289253226,
+      "tiempo_media": 0.02828305999937584
+    },
+    "10000|exponencial rápido": {
+      "costo_media": 616.3631874228591,
+      "costo_desv": 21.15320339911262,
+      "tiempo_media": 0.025772199999482836
+    },
+    "40000|lineal": {
+      "costo_media": 609.9928189268912,
+      "costo_desv": 18.075561347192192,
+      "tiempo_media": 0.10870696999918436
+    },
+    "40000|exponencial": {
+      "costo_media": 589.5266344889047,
+      "costo_desv": 11.211162648788658,
+      "tiempo_media": 0.10948554999995394
+    },
+    "40000|logarítmico": {
+      "costo_media": 604.7662092843416,
+      "costo_desv": 15.549234990277373,
+      "tiempo_media": 0.10319059000103152
+    },
+    "40000|exponencial rápido": {
+      "costo_media": 608.5987250411852,
+      "costo_desv": 18.33174855572084,
+      "tiempo_media": 0.10501410000215401
+    },
+    "160000|lineal": {
+      "costo_media": 583.9609829612173,
+      "costo_desv": 10.261202827248066,
+      "tiempo_media": 0.43259768999996595
+    },
+    "160000|exponencial": {
+      "costo_media": 579.0575237767373,
+      "costo_desv": 9.008895752244277,
+      "tiempo_media": 0.4258745200000703
+    },
+    "160000|logarítmico": {
+      "costo_media": 593.0265895475006,
+      "costo_desv": 10.67736113561841,
+      "tiempo_media": 0.4134283099992899
+    },
+    "160000|exponencial rápido": {
+      "costo_media": 605.8446743371613,
+      "costo_desv": 16.938959291611276,
+      "tiempo_media": 0.40993579999922075
+    }
+  },
+  "hill_climbing": {
+    "costo_media": 610.4345035139577,
+    "costo_desv": 16.204751833415564,
+    "tiempo_media": 0.0007387700003164355
+  }
+}
